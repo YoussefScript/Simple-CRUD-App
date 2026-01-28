@@ -6,7 +6,7 @@ import Post from './pages/Post'
 import EditPost from './pages/EditPost'
 
 function App() {
-json-server db.json
+
   return (
     <>
       <h1 className="text-4xl font-bold text-center mt-0 mb-10 bg-linear-to-r from-blue-500 to-blue-700 text-white py-6 shadow-lg">Simple Blog App</h1>
