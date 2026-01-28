@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": "f1f9b4e8-b33b-4ea2-b9e5-113384ae7de5",
-      "title": "",
-      "content": "crud"
+      "title": "what is crud",
+      "content": "create by POST read by GET update BY push delete by delete"
     }
   ]
 }
